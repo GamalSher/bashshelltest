@@ -1,2 +1,3 @@
 #! /bin/bash 
-echo "heelo world!"
+echo "heelo world! "
+echo "helo"
